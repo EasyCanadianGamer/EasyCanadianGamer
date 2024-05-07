@@ -9,11 +9,8 @@ I am an computer science student who plays way too much Minecraft. I also have t
 - ⚡ Fun fact: I love Minecraft and I hate java, but I love modding minecraft, so I have a hate and love releationship with Java.
 
 
-![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
-
-![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)
-
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eyadm/)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@EyadMerajuddin)
 
 
 
