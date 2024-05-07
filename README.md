@@ -1,6 +1,6 @@
 ### Hi there, I'm Eyad (CanadianGamer or EasyCanadianGamer)👋
 
-I am an computer science student who plays way too much Minecraft. I also have two yotube channels, one for minecraft/gaming ( CanandianGamer) and a seperate one for other topics that I enjoy doing outside of gaming (like programming, makign websites, and tech reviews).  
+I am an computer science student who plays way too much Minecraft. I also have two yotube channels, one for minecraft/gaming ( CanandianGamer) and a seperate one for other topics that I enjoy doing outside of gaming (like programming, making websites, and tech reviews).  
 
 - 🔭 I’m currently working on Python AI Chat website with Flask and Google's Gemnini API 
 -  🌱 I’m currently learning AI & Machine Learning and how it works. 
