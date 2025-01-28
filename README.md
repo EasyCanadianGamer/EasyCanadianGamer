@@ -11,7 +11,7 @@ I am an computer science student who plays way too much Minecraft. I also have t
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eyadm/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@EyadMerajuddin)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C4V12R4)
 
 
 <!--
