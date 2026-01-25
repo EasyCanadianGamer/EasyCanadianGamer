@@ -2,7 +2,7 @@
 
 I am an computer science student who plays way too much Minecraft. I also have two yotube channels, one for minecraft/gaming ( CanandianGamer) and a seperate one for other topics that I enjoy doing outside of gaming (like programming, making websites, and tech reviews).  
 
-- 🔭 I’m currently working on ProjexNexa a minimal dashboard summazring projects.
+- 🔭 I’m currently working on Dwahfy a open-source free speechapplication
 -  🌱 I’m currently learning AI & Machine Learning and Cybersecurity. And how they function together. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Minecraft and I hate java, but I love modding minecraft, so I have a hate and love releationship with Java.
