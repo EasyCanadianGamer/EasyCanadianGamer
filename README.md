@@ -31,11 +31,7 @@ I'm a Computer Science student with a passion for building things — whether th
 <br>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EasyCanadianGamer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasyCanadianGamer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EasyCanadianGamer&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 
