@@ -19,17 +19,25 @@ I also run two YouTube channels — **CanadianGamer** (gaming) and **eyad uddin*
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,bash,sql)](https://skillicons.dev)
+
 **Frontend**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,ts,vite,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css)](https://skillicons.dev)
 
-**Backend & Deployment**
+**Backend & Databases**
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,js,vercel)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,docker)](https://skillicons.dev)
 
-**Tools & Other**
+**Cloud & DevOps**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=azure,linux,nginx,git)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=github,gitlab,vscode,arch)](https://skillicons.dev)
 
 <br>
 
