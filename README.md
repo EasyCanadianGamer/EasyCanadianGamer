@@ -1,5 +1,5 @@
 # Hey there, I'm Eyad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-### `CanadianGamer` · `EasyCanadianGamer` · CS Student · Open Source Enthusiast
+### `CanadianGamer` · `EasyCanadianGamer` · CS Student @ TCNJ · Open Source · AI/Linux
 
 <br>
 
