@@ -52,6 +52,7 @@ I also run two YouTube channels — **CanadianGamer** (gaming) and **eyad uddin*
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@EyadMerajuddin)
 [![YouTube(Gaming)](https://img.shields.io/badge/YouTube-3333FF?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@canadiangamer23)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/canadian_gamer23)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/canadiangamerOS)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/C0C4V12R4)
 
 <br>
