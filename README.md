@@ -5,12 +5,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with a passion for building things — whether that's full-stack web apps, open-source tools, or heavily modded Minecraft worlds. I run **two YouTube channels**: one for Minecraft & gaming, and another for programming, web dev, and tech reviews.
+Computer Science student at TCNJ (graduating Dec 2026) — I build AI-powered apps, open-source tools, and Linux systems.
 
-- 🚀 Currently building **[Dwahfy](https://github.com/)** — a free, open-source speech application
-- 🧠 Learning **AI & Machine Learning** + **Cybersecurity**, and how they intersect
-- ⚡ Fun fact: I *hate* Java, but I love modding Minecraft — so Java and I have a complicated relationship
-- 😄 Pronouns: **He/Him**
+**Current projects:**
+- [RoastBot AI TTS](https://github.com/EasyCanadianGamer/RoastBotAITTS) — LLM + Cartesia TTS pipeline that roasts you based on your active window
+- [MapleOverlays](https://github.com/EasyCanadianGamer/MapleOverlays) — open-core streamer utility platform with React dashboard, multi-account stream manager, and chatbot
+- [Discord AI Bots](https://github.com/EasyCanadianGamer/discord-bots) — multi-provider LLM bot framework (Grok, OpenAI, Ollama)
+- [Canadian Gamer OS](https://gitlab.com/canadiangamerOS) — custom Arch-based Linux distro with TTY installer and Hyprland desktop
+
+I also run two YouTube channels — **CanadianGamer** (gaming) and **eyad uddin** (tech/vlog).
 
 <br>
 
